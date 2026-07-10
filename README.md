@@ -45,29 +45,6 @@ Social Media Content Analyzer is a Flask-based web application that extracts tex
 
 
 
-## Project Structure
-
-
-social-media-content-analyzer/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── templates/
-│   └── index.html
-│
-├── static/
-│   ├── style.css
-│   └── script.js
-│
-└── uploads/
-
-
-
-
-
-
 ### Configure Gemini API Key
 
 Create an environment variable:
