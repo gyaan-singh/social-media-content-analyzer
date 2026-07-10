@@ -15,9 +15,9 @@ app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 
 ALLOWED_EXTENSIONS = {"pdf", "png", "jpg", "jpeg"}
 
-genai.configure(api_key="YOUR_GEMINI_API_KEY")
+genai.configure(api_key="A")
 
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("GEMINI_API_KEY")
 
 
 def allowed(filename):
