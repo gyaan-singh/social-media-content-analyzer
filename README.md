@@ -97,3 +97,7 @@ or configure it in your deployment platform (e.g., Render).
 ## License
 
 This project is developed for educational and technical assessment purposes.
+
+
+output 
+![Home](IMG_20260710_211612.jpg)
